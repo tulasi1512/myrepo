@@ -80,3 +80,26 @@ git restore *
 ll
 clear
 history
+ll
+touch aws azure gcp
+git init .
+ls -sl
+ls -al
+git add *
+git status
+git commit -m "message" .
+git status
+clear
+git branch devops
+ll
+git checkour devops
+git checkout devops
+git branch
+git branch -d devops 
+git checkout master 
+git branch -d devops 
+git branch
+ll
+ls -al
+rm -rf *
+ls -sl
